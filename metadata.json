@@ -1,0 +1,5 @@
+{
+  "name": "Lyria Studio",
+  "description": "An AI-powered music creation studio using Lyria models for high-quality music generation.",
+  "requestFramePermissions": []
+}
